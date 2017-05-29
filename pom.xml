@@ -17,8 +17,7 @@
 
         <spring.boot-version>1.5.3.RELEASE</spring.boot-version>
         <apache.camel-version>2.19.0</apache.camel-version>
-        <fabric8-maven-plugin.version>3.4-SNAPSHOT</fabric8-maven-plugin.version>
-        <!--<fabric8-maven-plugin.version>3.4.0</fabric8-maven-plugin.version>-->
+        <fabric8-maven-plugin.version>3.4.1</fabric8-maven-plugin.version>
     </properties>
 
     <dependencies>
